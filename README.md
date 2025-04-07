@@ -1,5 +1,11 @@
 ## 「智能体白皮书」速读
 
+<div align="center">
+<figure>
+  <img src="智能体白皮书 - 思维导图.pdf"  style="width: 100%; border: 1px solid #ddd;"/>
+  <figcaption style="text-align: center;">白皮书结构导图</figcaption>
+</figure>
+</div>
 
 
 简单理解，现在咱们用的 AI 模型，比如 DeepSeek、ChatGPT 这些，就像个超级聪明、但被关在瓶子里的大脑。知道的贼多，但短板也很大，因为它们动不了手，缺少实干能力。
